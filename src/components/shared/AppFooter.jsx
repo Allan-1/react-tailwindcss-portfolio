@@ -11,27 +11,27 @@ const socialLinks = [
 	{
 		id: 1,
 		icon: <FiGlobe />,
-		url: 'https://www.stoman.me/',
+		url: 'https://allanmuturi.com/',
 	},
 	{
 		id: 2,
 		icon: <FiGithub />,
-		url: 'https://github.com/realstoman',
+		url: 'https://github.com/Allan-1',
 	},
 	{
 		id: 3,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/realstoman',
+		url: 'https://twitter.com/a0x001',
 	},
 	{
 		id: 4,
 		icon: <FiLinkedin />,
-		url: 'https://www.linkedin.com/in/realstoman',
+		url: 'https://www.linkedin.com/in/allan-maina/',
 	},
 	{
 		id: 5,
 		icon: <FiYoutube />,
-		url: 'https://www.youtube.com/c/realstoman',
+		url: 'https://www.youtube.com/channel/UCKmFMUKTzr283vyuL5NmoEQ',
 	},
 ];
 
