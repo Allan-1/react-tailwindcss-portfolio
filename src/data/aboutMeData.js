@@ -1,7 +1,7 @@
 export const aboutMeData = [
   {
     id: 1,
-    bio: 'I am a passionate mobile application and web developer with over 3 years of experience. I am skilled in a variety of programming languages and technologies, including Java, Kotlin, Swift, JavaScript, React Native, and Xamarin. I am also proficient in a variety of design and development tools, such as Android Studio, Xcode, and Visual Studio.',
+    bio: 'I am a passionate mobile application and web developer with over 3 years of experience. I am skilled in a variety of programming languages and technologies, including Java, Kotlin, Swift, JavaScript, C#, Flutter, React Native, and Xamarin. I am also proficient in a variety of design and development tools, such as Android Studio, Xcode, and Visual Studio.',
   },
   {
     id: 2,
